@@ -1,6 +1,6 @@
 # typescript-script-cronjob
 
-Local script that runs daily via a cronjob.
+Local script to be run (typically) via a cronjob.
 
 # How to develop?
 
