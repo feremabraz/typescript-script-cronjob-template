@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "typescript-script-cronjob",
+  "name": "typescript-script-cronjob-template",
   "private": true,
   "scripts": {
     "prepare": "husky install",
