@@ -1,4 +1,4 @@
-# typescript-script-cronjob
+# typescript-script-cronjob-template
 
 Local script to be run (typically) via a cronjob.
 
